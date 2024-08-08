@@ -1,0 +1,38 @@
+
+
+
+
+/* tes  */
+.pf-container h1{
+    align-items: center;
+    justify-content: center;
+    font-weight: 100;
+    font-size: 3em;
+}
+.pf{
+    width: 80%;  
+    height: auto;
+    margin: auto;
+}
+main .pf .row{
+    width: 100%;
+    margin: 1em 1em;
+    display: flex;
+    
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+  }
+.pf-wrapper {
+    width: 25%;
+    height: auto;
+    margin: 1em;
+}
+
+.pf-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

@@ -1,0 +1,68 @@
+
+
+
+ /* tes  */
+
+ .sej-container{
+    margin-block: 2em;
+    margin-right: auto;
+    margin-left: auto;
+ }
+article{
+    max-width: 60%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article .box1{
+    display: block;
+    margin: auto;
+    flex: 1;
+    margin-inline: 2em;
+}
+
+article .box2{
+    width: 515px;
+    height: 401px;
+    background-image: url('/img/Picture2.png');
+    margin-inline: 2em;
+}
+article #img2{
+    width: 515px;
+    height: 401px;
+    background-image: url('/img/Picture4.png');
+    margin-inline: 2em;
+}
+article #img3{
+    width: 496px;
+    height: 264px;
+    background-image: url('/img/Picture5.png');
+    margin-inline: 2em;
+}
+.sejarah{
+    align-items: center;
+    justify-content: center;
+}
+.sejarah hr{
+    margin: 0;
+    border-top: 3px solid #03346E;
+    /* width: 12%; */
+    padding-block: 0;
+    object-fit: contain;
+    
+}
+.sejarah h1{
+    font-size: 2.2em;
+    margin :.2em 0;
+    padding-block: 0;
+    color: #03346E;
+}
+.sejarah p{
+    margin: 1.5em 0;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
